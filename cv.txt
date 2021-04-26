@@ -1,1 +1,4 @@
 Nowy tekst
+Druga linia nowego tekstu.
+Nowy tekst
+Insert: I
